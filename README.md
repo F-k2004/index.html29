@@ -8,7 +8,7 @@
   body {
     margin: 0;
     background: #000010;
-    overflow: hidden;
+    verflow: hidden;
   }
   canvas {
     display: block;
